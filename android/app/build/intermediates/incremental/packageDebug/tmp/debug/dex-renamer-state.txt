@@ -1,0 +1,4 @@
+#Wed Oct 17 22:15:41 ART 2018
+base.0=/home/ferced/Escritorio/NetSafeDemoV9/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

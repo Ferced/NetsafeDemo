@@ -1,0 +1,35 @@
+{
+  "name": "TheLastTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "native-base": "^2.8.0",
+    "react": "16.5.0",
+    "react-native": "0.57.1",
+    "react-native-awesome-alerts": "^1.1.1",
+    "react-native-blink-view": "0.0.6",
+    "react-native-elements": "^0.19.1",
+    "react-native-fade-in-image": "^1.4.1",
+    "react-native-flash-message": "^0.1.10",
+    "react-native-picker-select": "^4.4.0",
+    "react-native-splash-screen": "^3.1.1",
+    "react-native-sqlite-storage": "^3.3.7",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.17.0",
+    "watchman": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.47.0",
+    "react-test-renderer": "16.5.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
