@@ -46,7 +46,7 @@ export default class SideBar extends React.Component {
             style={{
               height: 80,
               width: 70,
-              position: "absolte",
+              position: "absolute",
               alignSelf: "center",
               top: 20
             }}
